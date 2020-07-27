@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Didier. 👋
+
+I'm a digital designer and creative developer, currently working at [Yummygum](https://github.com/Yummygum/). You can find me at [didiercatz.com](https://didiercatz.com).
+
+[![Didier's github stats](https://github-readme-stats.vercel.app/api?username=didiercatz)](https://github.com/anuraghazra/github-readme-stats)
+
+_I mostly contribute to private repositories, but here are my public stats._
+
 
 <!--
 **didiercatz/didiercatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
