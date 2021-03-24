@@ -1,6 +1,12 @@
-### Hi there, I'm Didier. 👋
+### Hey, I'm Didier. I guess you could call me a designer, a front-end engineer or just a passionate nerd. Whatever floats your boat.
 
-I'm a digital designer and creative developer, currently working at [Yummygum](https://github.com/Yummygum/). You can find me at [didiercatz.com](https://didiercatz.com).
+Work → [Yummygum](https://github.com/Yummygum/)
+
+
+Business Card → https://didier.cz
+
+
+Web → [didiercatz.com](https://didiercatz.com)
 
 _I mostly contribute to private repositories, but here are my public stats._
 
