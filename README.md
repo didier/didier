@@ -1,4 +1,4 @@
-Technical Designer & Co-Founder of [@Stypt](https://github.com/Stypt). 
+Freelance Designer and Creative Developer.
  
 - [Website](https://didiercatz.com)
 - [Business Card](https://didier.cz)
