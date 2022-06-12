@@ -1,7 +1,7 @@
 Freelance Designer and Creative Developer.
  
 - [Website](https://didiercatz.com)
-- [Business Card](https://didier.cz)
+- [Business Card](https://catz.me)
 - [Resumé](https://read.cv/didier)
 - [Twitter](https://twitter.com/didiercatz)
  
