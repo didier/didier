@@ -1,10 +1,14 @@
 Freelance Designer and Creative Developer.
- 
+##### Currently focused on high-level Svelte + SvelteKit
+
+
 - [Website](https://didiercatz.com)
 - [Business Card](https://catz.me)
 - [Resumé](https://read.cv/didier)
 - [Twitter](https://twitter.com/didiercatz)
  
+ 
+
  
 ###### Technologies & Tools
 
