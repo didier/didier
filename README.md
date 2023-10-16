@@ -1,6 +1,6 @@
-Co-founder, Technology [@Grids](https://grids.bio)
+**Co-founder, Technology [@Grids](https://grids.bio)**
  
-###### Technologies & Tools
+Technologies & Tools
 
 ![Svelte](https://img.shields.io/badge/-Svelte-white?style=flat&logo=Svelte)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-white?style=flat&logo=Svelte)
@@ -13,7 +13,8 @@ Co-founder, Technology [@Grids](https://grids.bio)
 ![Figma](https://img.shields.io/badge/-Figma-white?style=flat&logo=Figma&logoColor=black)
 
 
-###### Archive
+Archive
+
 ![Deno](https://img.shields.io/badge/-Deno-white?style=flat&logo=Deno&)
 ![Sapper](https://img.shields.io/badge/-Sapper-white?style=flat&logo=Svelte&logoColor=159497)
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass)
